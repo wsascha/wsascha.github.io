@@ -1,18 +1,12 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I work as a researcher at [FZI Forschungszentrum Informatik](https://www.fzi.de/en/home/) in Karlsruhe, Germany.
+In addition, I am a PhD candidate in lidar-based environment perception at the [Karlsruhe Institute of Technology](https://www.kit.edu/english/), Germany.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Aside my research, I am interested in all kinds of tech, mainly
+- deep learning
+- self-driving cars
