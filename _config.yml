@@ -1,0 +1,68 @@
+#
+###################################
+# Site wide configuration
+####################################
+#
+title: Sascha Wirges
+email: sascha.wirges+blog@gmail.com
+description: An awesome blog about tech, machine learning and self-driving cars.
+url: https://wsascha.github.io
+keywords: ["Programming", "C++", "ROS"]
+
+#
+###################################
+# Jekyll configuration
+####################################
+#
+timezone:          Europe/Berlin
+markdown:          kramdown
+highlighter:       rouge
+excerpt_separator: <!--more-->
+permalink:         /articles/:year-:month/:title
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  enable_coderay: false
+
+#
+###################################
+# Site Owner configuration
+####################################
+#
+owner:
+  name: Sascha Wirges
+  avatar: avatar.jpg
+  job: "PhD candidate lidar-based environment perception."
+  bio: "Interested in deep learning & self-driving cars.
+  Working at FZI Forschungszentrum Informatik, Karlsruhe, Germany."
+  email: sascha.wirges+blog@gmail.com
+  disqus-shortname:
+  twitter: _wsascha_
+  facebook:
+  google:
+    plus:
+    analytics:
+    verify:
+    ad-client:
+    ad-slot:
+  bing-verify:
+  github: wsascha
+  stackoverflow:
+  linkedin:
+  xing:
+  instagram:
+  lastfm:
+  tumblr:
+  pinterest:
+  foursquare:
+  steam:
+  dribbble:
+  youtube:
+  soundcloud:
+  weibo:
+  flickr:
+  codepen:
+  telegram:
