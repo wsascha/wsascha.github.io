@@ -1,14 +1,21 @@
 ---
 layout: post
-title:  "Hello World!"
-date:   2017-12-31 16:25:00 +0100
-categories: general
+title: Hello World!
+excerpt:
+categories: [info, code]
+comments: false
+image:
+  feature: https://upload.wikimedia.org/wikipedia/commons/1/1a/Hello_-_Script.svg
+  credit: STVN
+  creditlink: https://commons.wikimedia.org/wiki/File%3AHello_-_Script.svg
+publish: true
 ---
 
 I decided to create a small blog to share my insights in research and technology to interested people and I hope to do so regularly.
-
 Also expect a couple of things to change as I just created all this.
 I am going to make it a lot nicer in the next days!
+
+<!--more-->
 
 As I usually develop things on Ubuntu using C++, let's write a little program that outputs `Hello World!` to the command line.
 The file `hello.cpp` could look like this:
