@@ -14,11 +14,13 @@ keywords: ["Programming", "C++", "ROS"]
 # Jekyll configuration
 ####################################
 #
-timezone:          Europe/Berlin
-markdown:          kramdown
-highlighter:       rouge
+timezone: Europe/Berlin
+theme: leonids
+markdown: kramdown
+highlighter: rouge
 excerpt_separator: <!--more-->
-permalink:         /articles/:year-:month/:title
+permalink: /articles/:year-:month/:title
+plugins: 
 
 kramdown:
   auto_ids: true
