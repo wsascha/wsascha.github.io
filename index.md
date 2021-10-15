@@ -14,4 +14,4 @@ Here, you can find some basic information about me and what I do. That's it! ;-)
 </p>
 
 <br>
-Strange layout, you say? – Maybe. But I like the minimalistic design! Credits go to [b2a3e8](https://github.com/b2a3e8) for their [jekyll theme](https://github.com/b2a3e8/jekyll-theme-console).
+<small>Credits to [b2a3e8](https://github.com/b2a3e8) for their minimalistic [jekyll theme](https://github.com/b2a3e8/jekyll-theme-console).<small>
