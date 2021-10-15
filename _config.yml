@@ -1,0 +1,15 @@
+title: /home/wsascha
+description: /home/wsascha
+baseurl: /
+url: https://wsascha.github.io
+
+header_pages:
+  - index.md
+  - about.md
+
+style: dark
+
+footer: '<a href="https://github.com/wsascha" target="_blank">GitHub</a> | <a href="https://scholar.google.com/citations?user=t85IPDwAAAAJ" target="_blank">Google Scholar</a> | <a href="https://www.linkedin.com/in/wsascha/" target="_blank">LinkedIn</a>'
+
+markdown: kramdown
+remote_theme: b2a3e8/jekyll-theme-console
