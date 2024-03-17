@@ -10,4 +10,5 @@ hide:
 # Hi, I'm Sascha...
 
 ...welcome to my personal page.
-Here, you can find some basic information about me and what I do. That's it! ;-)
+Here, you can find some basic information about me and what I do.
+That's it! :stuck_out_tongue:

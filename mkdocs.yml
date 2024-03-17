@@ -89,8 +89,10 @@ extra_css:
 
 plugins:
   - git-authors
+  - git-committers:
+      repository: wsascha/wsascha.github.io
+      branch: main
   - git-revision-date-localized:
-      enable_creation_date: true
       fallback_to_build_date: true
   - privacy
   - search
